@@ -47,7 +47,17 @@ function Home(){
         </div>
       </div>
 
-      
+      <div className="best-part">
+        <p>The best part of NU<span>BB</span>Y </p>
+         <p><img src="/images/check-ring.png" alt="" />  Break into the market with ease</p>
+         <span>As a new student vendor, it can be difficult to get customers, Nubby is here to help you make those sales within campus</span>
+
+         <p><img src="/images/check-ring.png" alt="" />  Break into the market with ease</p>
+         <span>As a new student vendor, it can be difficult to get customers, Nubby is here to help you make those sales within campus</span>
+
+         <p><img src="/images/check-ring.png" alt="" />  Break into the market with ease</p>
+         <span>As a new student vendor, it can be difficult to get customers, Nubby is here to help you make those sales within campus</span>
+      </div>
     </div>
   );
 }
