@@ -26,9 +26,28 @@ function Home(){
           <p>You need it, we've got it</p>
         </div>
 
-        <div className="advertisement icons">  
+        <div className="advertisement icons"> 
+        <img src="/images/street-food.png" alt="" /> 
+        <p>Food & Drinks</p>
+
+        <img src="/images/krita.png" alt="" /> 
+        <p>Graphics Design</p>
+
+        <img src="/images/homework.png" alt="" /> 
+        <p>Assignment help</p>
+
+        <img src="/images/google-code.png" alt="" /> 
+        <p>Programming</p>
+
+        <img src="/images/shopping-mall.png" alt="" /> 
+        <p>Clothing & Fashion</p>
+
+        <img src="/images/google-code.png" alt="" /> 
+        <p>Programming</p>
         </div>
       </div>
+
+      
     </div>
   );
 }
